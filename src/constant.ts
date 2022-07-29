@@ -63,4 +63,9 @@ export const types = {
     title: "Format",
     emoji: "🎨",
   },
+  "minor-fix": {
+    description: "Simple fix for a non-critical issue.",
+    title: "Format",
+    emoji: "🩹",
+  },
 };

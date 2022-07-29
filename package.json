@@ -1,10 +1,10 @@
 {
   "name": "@sushany/cz-emoji-conventional",
-  "version": "1.0.04",
+  "version": "1.0.05",
   "description": "commitizen adapter for conventional commit messages with emoji",
   "repository": {
     "type": "git",
-    "url": "https://github.com/promet99/cz-emoji-conventional",
+    "url": "https://github.com/sushanyadav/cz-emoji-conventional",
     "directory": "/"
   },
   "main": "build/index.js",

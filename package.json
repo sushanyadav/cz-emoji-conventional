@@ -11,8 +11,7 @@
   "scripts": {
     "commit": "cz",
     "build": "tsc",
-    "lint": "eslint ./",
-    "test": "echo \"Error: too lazy to write test\" && exit 1"
+    "lint": "eslint ./"
   },
   "author": "Promet99 (https://github.com/promet99)",
   "license": "ISC",

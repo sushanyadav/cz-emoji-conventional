@@ -1,15 +1,16 @@
 {
   "name": "sushan-cz-emoji-conventional-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "commitizen adapter for conventional commit messages with emoji",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sushanyadav/cz-emoji-conventional",
+    "url": "https://github.com/promet99/cz-emoji-conventional",
     "directory": "/"
   },
   "main": "build/index.js",
   "scripts": {
     "commit": "cz",
+    "build": "tsc",
     "lint": "eslint ./",
     "test": "echo \"Error: too lazy to write test\" && exit 1"
   },

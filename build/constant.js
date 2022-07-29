@@ -18,7 +18,7 @@ exports.types = {
         emoji: "📝",
     },
     style: {
-        description: "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
+        description: "Add or update the UI and style files.",
         title: "Styles",
         emoji: "💎",
     },
@@ -56,5 +56,10 @@ exports.types = {
         description: "Reverts a previous commit",
         title: "Reverts",
         emoji: "⏪️",
+    },
+    format: {
+        description: "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
+        title: "Format",
+        emoji: "🎨",
     },
 };

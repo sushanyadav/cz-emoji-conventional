@@ -24,7 +24,6 @@ export const types = {
     title: "Code Refactoring",
     emoji: "♻️",
   },
-
   perf: {
     description: "A code change that improves performance",
     title: "Performance Improvements",

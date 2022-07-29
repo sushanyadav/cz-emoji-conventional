@@ -1,3 +1,7 @@
 # Forked From
 
-[cz-conventional-changelog](https://github.com/promet99/cz-emoji-conventional)
+[cz-emoji-conventional](https://github.com/promet99/cz-emoji-conventional)
+
+## NPM Link
+
+[@sushany/cz-emoji-conventional](https://www.npmjs.com/package/@sushany/cz-emoji-conventional)
